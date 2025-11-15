@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Charmunks/dropheus-backend
+[submodule "ext"]
+	path = ext
+	url = https://github.com/whatbeato/dropheus-frontend
