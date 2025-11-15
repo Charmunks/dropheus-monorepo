@@ -6,3 +6,4 @@ More information about the extention can be found in the /ext folder's README.md
 
 Backend made by @Charmunks, frontend made by @whatbeato 
 
+Install instructions and binary can be found in the releases tab
