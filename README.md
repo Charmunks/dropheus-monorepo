@@ -4,6 +4,6 @@ This is the monorepo for the Dropheus chrome extension. Dropheus is a chrome ext
 
 More information about the extention can be found in the /ext folder's README.md file. More information about the backend server can be found in the /server folder's README.md file.
 
-Backend made by @Charmunks, frontend made by @whatbeato 
+Backend made by [@Charmunks](https://github.com/Charmunks/), frontend made by [@whatbeato](https://github.com/whatbeato/) 
 
 Install instructions and binary can be found in the releases tab
