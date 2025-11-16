@@ -6,4 +6,4 @@ More information about the extention can be found in the /ext folder's README.md
 
 Backend made by [@Charmunks](https://github.com/Charmunks/), frontend made by [@whatbeato](https://github.com/whatbeato/) 
 
-Install instructions and binary can be found in the releases tab
+Install instructions and binary can be found in the [Releases](https://github.com/Charmunks/dropheus-monorepo/releases) tab
